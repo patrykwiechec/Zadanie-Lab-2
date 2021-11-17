@@ -1,0 +1,29 @@
+@model Zadanie.Models.FormModel
+@{
+    ViewData["Title"] = "Form-Created";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Dane z formularza</h1>
+    @Html.DisplayNameFor(model => model.Name):          @Html.DisplayFor(model => model.Name)
+    <br />
+    @Html.DisplayNameFor(model => model.HowMuch):   @Html.DisplayFor(model => model.HowMuch)
+    <br />
+    <br />
+    <br />
+
+    <script>
+       var x =  @Html.DisplayFor(model => model.HowMuch);
+        var y = '@Html.DisplayFor(model => model.Name)';
+
+        
+
+        for (var i = 0; i < x; i++) {
+            document.write(y+"<br />");
+        }
+
+    </script>
+
+
+</div>
+
