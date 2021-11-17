@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Zadanie\\Zadanie\\Zadanie\\Zadanie.csproj": {}
+    "C:\\Users\\Pato\\Desktop\\Zadanie\\Zadanie-lab-2\\Zadanie\\Zadanie\\Zadanie.csproj": {}
   },
   "projects": {
-    "D:\\Zadanie\\Zadanie\\Zadanie\\Zadanie.csproj": {
+    "C:\\Users\\Pato\\Desktop\\Zadanie\\Zadanie-lab-2\\Zadanie\\Zadanie\\Zadanie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Zadanie\\Zadanie\\Zadanie\\Zadanie.csproj",
+        "projectUniqueName": "C:\\Users\\Pato\\Desktop\\Zadanie\\Zadanie-lab-2\\Zadanie\\Zadanie\\Zadanie.csproj",
         "projectName": "Zadanie",
-        "projectPath": "D:\\Zadanie\\Zadanie\\Zadanie\\Zadanie.csproj",
+        "projectPath": "C:\\Users\\Pato\\Desktop\\Zadanie\\Zadanie-lab-2\\Zadanie\\Zadanie\\Zadanie.csproj",
         "packagesPath": "C:\\Users\\Pato\\.nuget\\packages\\",
-        "outputPath": "D:\\Zadanie\\Zadanie\\Zadanie\\obj\\",
+        "outputPath": "C:\\Users\\Pato\\Desktop\\Zadanie\\Zadanie-lab-2\\Zadanie\\Zadanie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pato\\AppData\\Roaming\\NuGet\\NuGet.Config",
