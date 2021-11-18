@@ -17,13 +17,9 @@
         var y = '@Html.DisplayFor(model => model.Name)';
 
 
-        if (x < 1) document.write("Wprowadziłeś za małą liczbę potwórzeń...")
-        else if (x > 5) document.write("Wprowadziłeś za dużą liczbę powtórzeń...")
-        else {
             for (var i = 0; i < x; i++) {
                 document.write(i + 1 + ". " + y + "<br />");
             }
-        }
                 
 
     </script>

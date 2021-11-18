@@ -8,7 +8,8 @@ namespace Zadanie.Models
         [Required]
         public string Name { get; set; }
         [Display(Name = "Ile potwórzyć? (1-5)")]
+        [Range(1, 5)]
         public int HowMuch { get; set; }
-    
+        
     }
 }

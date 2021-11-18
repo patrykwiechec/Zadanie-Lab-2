@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,9 +24,9 @@ namespace Zadanie.Controllers
         {
             if(ModelState.IsValid)
             {
-
-                return View("Created", model);
+                    return View("Created", model);          
             }
+
             return View(model);
         }
 
